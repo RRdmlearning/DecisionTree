@@ -1,5 +1,6 @@
 # Decision-Tree
-Classifier Decision Tree and Regressor Decision Tree
+*  Classifier Decision Tree 
+*  Regressor Decision Tree
 
 reference:<br>
 https://github.com/eriklindernoren/ML-From-Scratch/blob/master/mlfromscratch/supervised_learning/decision_tree.py<br>
